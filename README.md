@@ -127,7 +127,3 @@ Through this project I gained hands-on experience with:
 - Modern C++ systems programming
 
 ---
-
-## Acknowledgements
-
-Built as part of the **CodeCrafters Build Your Own Kafka Challenge**.
